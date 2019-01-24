@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+    <configuration>
+        <encoding>UTF-8</encoding>
+        <documentTitle>Smoke-Suite - v1.1.0</documentTitle>
+        <reportName>Beautystack-smoke-suite</reportName>
+        <reportHeadline> - v1.1.0</reportHeadline>
+    </configuration>
+</extentreports>

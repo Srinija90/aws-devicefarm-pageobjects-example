@@ -1,0 +1,7 @@
+output
+test-output
+.DS_Store
+reports/*
+target/*
+src/test/java/runner/TestRunner.java
+/target/
